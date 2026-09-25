@@ -1,0 +1,6 @@
+venv/
+
+dataset/acidentes2024_todas_causas_tipos.csv
+dataset/acidentes2025_todas_causas_tipos.csv
+
+explicacao_dataset/
