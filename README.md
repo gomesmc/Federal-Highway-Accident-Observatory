@@ -23,7 +23,7 @@ The project also aims to develop a pipeline that integrates different tools comm
 
 ---
 
-## 🗂️ Data Source
+##  Data Source
 
 The data used in this project comes from the **Brazilian Federal Highway Police (PRF) Open Data**.
 
@@ -63,7 +63,7 @@ The project was designed to integrate different technologies throughout the data
 
 ---
 
-## 🔄 Project Pipeline
+## Project Pipeline
 
 The planned project workflow is:
 
@@ -111,7 +111,7 @@ Contains supporting materials and documentation related to the datasets used in 
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 The first stage of the project consists of analyzing the structure and quality of the data using **Python and Pandas**.
 
@@ -142,7 +142,7 @@ Missing values are preserved during the initial stage so they can be analyzed be
 
 ---
 
-## 🔍 Project Stages
+##  Project Stages
 
 The project development is divided into the following stages:
 
@@ -164,7 +164,7 @@ The project development is divided into the following stages:
 
 ---
 
-## 📊 Planned Analyses
+##  Planned Analyses
 
 After preparing the data, different aspects of the accidents recorded on Brazilian federal highways will be investigated.
 
@@ -200,7 +200,7 @@ Comparison of accident indicators between **2024 and 2025**, allowing variations
 
 ---
 
-## 📈 Dashboards
+##  Dashboards
 
 The results of the analyses will be used to develop dashboards and visualizations using:
 
@@ -213,7 +213,7 @@ This section will be updated with dashboard images and links as the project prog
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 Clone the repository:
 
